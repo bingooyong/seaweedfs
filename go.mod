@@ -18,13 +18,16 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/eapache/go-resiliency v1.2.0 // indirect
 	github.com/facebookgo/clock v0.0.0-20150410010913-600d898af40a
+	github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c // indirect
+	github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 // indirect
 	github.com/facebookgo/stats v0.0.0-20151006221625-1b76add642e4
+	github.com/facebookgo/subset v0.0.0-20200203212716-c811ad88dec4 // indirect
 	github.com/frankban/quicktest v1.7.2 // indirect
 	github.com/gabriel-vasile/mimetype v1.0.0
 	github.com/go-redis/redis v6.15.2+incompatible
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/gocql/gocql v0.0.0-20190829130954-e163eff7a8c6
-	github.com/gogo/protobuf v1.2.2-0.20190730201129-28a6bbf47e48 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.3.2
 	github.com/google/btree v1.0.0
 	github.com/google/uuid v1.1.1
@@ -84,9 +87,9 @@ require (
 	gocloud.dev/pubsub/natspubsub v0.16.0
 	gocloud.dev/pubsub/rabbitpubsub v0.16.0
 	golang.org/x/image v0.0.0-20190829233526-b3c06291d021 // indirect
-	golang.org/x/net v0.0.0-20190909003024-a7b16738d86b
-	golang.org/x/sys v0.0.0-20190910064555-bbd175535a8b
-	golang.org/x/tools v0.0.0-20190911022129-16c5e0f7d110
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
+	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
+	golang.org/x/tools v0.0.0-20210106214847-113979e3529a
 	google.golang.org/api v0.9.0
 	google.golang.org/appengine v1.6.2 // indirect
 	google.golang.org/grpc v1.23.0
